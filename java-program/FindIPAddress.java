@@ -3,10 +3,10 @@ import java.util.*;
 public class FindIPAddress {
 
     public static void main(String args[]) {
-        String host;
+
         Scanner input = new Scanner(System.in);
         System.out.print("masukkan ip address: ");
-        host = input.next();
+        String host = input.next();
         try {
             InetAddress address = InetAddress.getByName(host);
             System.out.println(
