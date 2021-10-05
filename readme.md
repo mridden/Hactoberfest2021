@@ -1,9 +1,8 @@
-![HF-full-logo-b05d5eb32b3f3ecc9b2240526104cf4da3187b8b61963dd9042fdc2536e4a76c](https://user-images.githubusercontent.com/34307370/94694710-bdb6af80-0352-11eb-9665-10bbe937e277.png)
-
-
-
-
-# Hactoberfest-Projects-2020
+# 🎃 🎯   HacktoberFest 2021  🎃🎯 
+# Make your first Pull Request and earn a free T-shirt 👕👕 from GitHub!
+# Star & fork this Repo first
+![Hacktoberfest 2021](hacktober.jpg)
+## All valid PRs will be merged or suitable tags like hacktober-accepted will be given 
 
 ## What to do?
 Add any project, piece of code or script of your choice you wish to share in this repository.
