@@ -18,6 +18,7 @@ After you've added code, just come back to readme and add your name under contri
 [Your name here](Your GitHub/Linkedin URL here)
 
 [triard](https://github.com/triard)
+[dilshan11](https://github.com/dilshan11)
 
 ## Final words
 **Hacktoberfest** 2020
