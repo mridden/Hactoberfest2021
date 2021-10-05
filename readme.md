@@ -18,6 +18,6 @@ After you've added code, just come back to readme and add your name under contri
 [Your name here](Your GitHub/Linkedin URL here)
 
 [triard](https://github.com/triard)
-
+[Akash](https://github.com/akashdas-0111)
 ## Final words
 **Hacktoberfest** 2020
