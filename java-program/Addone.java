@@ -12,7 +12,7 @@ class Node
         next = null;
     }
 }
-class GfG
+class Addone
 {
     public static void printList(Node node) 
     { 
